@@ -1,8 +1,8 @@
 #https://static.lwn.net/images/pdf/LDD3/ch03.pdf
 
 #!/bin/sh
-module="src/holamundoMK"
-device="holamundoMK"
+module="src/td3_myi2c"
+device="td3_myi2c"
 mode="664"
 # invoke insmod with all arguments we got
 # and use a pathname, as newer modutils don't look in . by default
